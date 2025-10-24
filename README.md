@@ -1,7 +1,11 @@
 # Data Analysis Projects and Exercises Repository
 
-This repository contains all **data analysis exercises, mini projects, and capstone notebooks** developed as part of the **Data Analysis Training Manual by My IT Consult Ltd**.
-All notebooks were created and executed in **Google Colab**, then synchronized and shared as **GitHub Gists** for easy collaboration and reproducibility.
+This repository showcases original data analysis exercises, mini projects, and capstone project notebooks Developed and maintained as an open-source learning resource for data enthusiasts.
+
+The notebooks were designed to provide open-source learning resources for anyone interested in mastering data analysis using Python.
+All materials are crafted to guide learners through real-world workflows from data sourcing and cleaning to visualization and storytelling.
+
+All notebooks were created and executed in Google Colab, then synchronized and shared as GitHub Gists for accessibility, collaboration, and reproducibility.
 
 ---
 
@@ -59,7 +63,7 @@ Or open any notebook directly in Google Colab using the links above.
 
 ## 🏆 Credits
 
-Developed by **Zainab Abdulfatah**
+Developed and maintained by **Zainab Abdulfatah**
 *Data Analyst | STEM Advocate | Teacher | Freelancer*
 
 Role: *Digital Solutions & Learning Coordinator*
